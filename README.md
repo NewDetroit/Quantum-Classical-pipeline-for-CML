@@ -1,7 +1,9 @@
 # Personalizing CML Treatment with a Hybrid Quantum-Classical Stack
 
 **Author:** Venkata Shashish Vasireddi
+
 **Affiliation:** Heritage High School / Harvard Undergraduate OpenBio Laboratory
+
 **Mentor:** Collin Szczepanski (Columbia University)
 
 ## Project Overview
